@@ -1,6 +1,6 @@
 # vuejs-d3
 
-> A Vue.js project
+> A Vue.js + D3.js project
 
 ## Build Setup
 

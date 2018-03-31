@@ -48,6 +48,8 @@ module.exports = {
     'semi': ['error', 'never'],
     'comma-dangle': ['error', 'never'],
     'space-before-function-paren': ['error', 'always'],
+    'indent': [0],
+    'no-multi-spaces': ['error', { ignoreEOLComments: true }],
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
   }
 }
